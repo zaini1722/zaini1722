@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Azalfa
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning HTML,CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me on Instagram:zhen_ai_
 
 <!---
 zaini1722/zaini1722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
